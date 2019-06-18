@@ -3,7 +3,7 @@ title_left    : "En"
 title_right   : "reina" # default: ""
 description   : "Another personal website."
 keywords      : "blog, personal, website, portofolio, resume"
-url           : https://enreina.com # site url
+url           : https://www.enreina.com # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
