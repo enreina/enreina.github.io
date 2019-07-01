@@ -24,15 +24,15 @@ The first few months of work was exciting for me, I got to learn new things ever
 
 That was when I started to consider to take another path: taking a master degree. Again, my reason was not solelye because "I want to gain more knowledge..and so on" (well it is true to some extense), but it was mostly because I felt stuck on the same position and needed a change of pace.
 
-So that's why I decided to took a chance by working on my application to an MSc programme. As I wasn't really sure on what specialization that I would want to take back then, I slimmed down my university options to one — TU Delft —  which offers an MSc in Computer Science programme without strict specialization. 
+So that's why I decided to took a chance by working on my application to an MSc programme. As I wasn't really sure on what specialization that I would want to take back then, I slimmed down my university options to one — [TU Delft]([https://tudelft.nl](https://www.tudelft.nl/)) —  which offers an [MSc in Computer Science programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/) without strict specialization. 
 
-Then, I also started to seek possible scholarship options, back then the options were either LPDP, Beasiswa Menkominfo, and TU Delft Excellence Scholarship. Note that taking an MSc degree without  scholarship would not be an option for me, it was way more reasonable for me to figure out how to not get bored in my then job while being paid, rather than spending a fortune for a Master degree just to be "not bored".
+Then, I also started to seek possible scholarship options, back then the options were either [LPDP](https://www.lpdp.kemenkeu.go.id/), Beasiswa Menkominfo, and [TU Delft Excellence Scholarship](https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships/). Note that taking an MSc degree without  scholarship would not be an option for me, it was way more reasonable for me to figure out how to not get bored in my then job while being paid, rather than spending a fortune for a Master degree just to be "not bored".
 
-There was another condition which I imposed on myself: I had to work as hard as possible to get accepted — if by the end I didn't get admitted and/or acquire a scholarship, I would take it as a sign that MSc was not the way for me.
+There was another condition which I imposed on myself: I had to work as hard as possible to get accepted — if by the end I didn't get admitted and/or didn't acquire a scholarship, I would take it as a sign that MSc was not the way for me.
 
 ### Results?
 
-I honestly felt really lucky back then, the first time was when I got my acceptance letter and the second time was when my scholarship application got nominated and eventually be selected as one of the Excellene Scholarship recipients. My application for the Menkominfo scholarship was in fact got rejected, which I almost took a sign to give up on my pursue towards a graduate study.
+I honestly felt really lucky back then: the first time was when I got my acceptance letter and the second time was when my scholarship application got nominated and eventually be selected as one of the Excellence Scholarship recipients. My application for the Menkominfo scholarship was in fact got rejected, which I almost took a sign to give up on my pursue towards a graduate study.
 
 ### Takeaways
 
