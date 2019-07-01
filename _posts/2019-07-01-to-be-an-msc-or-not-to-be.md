@@ -3,6 +3,8 @@ layout: post
 title: "To Be an Msc Student or Not to Be, That Is the Question — or Is It?"
 comments: false
 keywords: "personal thoughts"
+cover: '/assets/images/2019-07-01/msc-yes-no.png'
+description: "My personal take on how I decided to pursue a master degree."
 ---
 
 <p align="center">
