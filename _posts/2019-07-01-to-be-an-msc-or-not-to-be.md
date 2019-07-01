@@ -4,7 +4,7 @@ title: "To Be an Msc Student or Not to Be, That Is the Question — or Is It?"
 comments: false
 keywords: "personal thoughts"
 cover: '/assets/images/2019-07-01/msc-yes-no.png'
-description: "My personal take on how I decided to pursue a master degree."
+description: "My personal take on why I decided to pursue a master degree."
 ---
 
 <p align="center">
@@ -26,7 +26,7 @@ The first few months of work was exciting for me, I got to learn new things ever
 
 That was when I started to consider to take another path: taking a master degree. Again, my reason was not solelye because "I want to gain more knowledge..and so on" (well it is true to some extense), but it was mostly because I felt stuck on the same position and needed a change of pace.
 
-So that's why I decided to took a chance by working on my application to an MSc programme. As I wasn't really sure on what specialization that I would want to take back then, I slimmed down my university options to one — [TU Delft]([https://tudelft.nl](https://www.tudelft.nl/)) —  which offers an [MSc in Computer Science programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/) without strict specialization. 
+So that's why I decided to took a chance by working on my application to an MSc programme. As I wasn't really sure on what specialization that I would want to take back then, I slimmed down my university options to one — [TU Delft](https://www.tudelft.nl/) —  which offers an [MSc in Computer Science programme](https://www.tudelft.nl/onderwijs/opleidingen/masters/cs/msc-computer-science/) without strict specialization. 
 
 Then, I also started to seek possible scholarship options, back then the options were either [LPDP](https://www.lpdp.kemenkeu.go.id/), Beasiswa Menkominfo, and [TU Delft Excellence Scholarship](https://www.tudelft.nl/en/education/practical-matters/scholarships/justus-louise-van-effen-excellence-scholarships/). Note that taking an MSc degree without  scholarship would not be an option for me, it was way more reasonable for me to figure out how to not get bored in my then job while being paid, rather than spending a fortune for a Master degree just to be "not bored".
 
