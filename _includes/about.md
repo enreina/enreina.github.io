@@ -2,4 +2,4 @@ Hi, I am **Enreina**, a software engineer currently working at Uber in Amsterdam
 
 When I am too tired to code, I usually pick up one of my next favorite activites: watching movies/drama series, reading [novels](https://www.goodreads.com/user/show/2945063-enreina), enjoying (or taking photos of) [food](https://www.instagram.com/stories/highlights/18132363679005219/), or co-hosting my [podcast series](https://anchor.fm/conn-friends).
 
-[Resume]({{site.baseurl}}/assets/docs/RESUME_Enreina_March2019.pdf) // [LinkedIn](https://www.linkedin.com/in/enreina/) // [Twitter](https://twitter.com/enreina_)
+[LinkedIn](https://www.linkedin.com/in/enreina/) // [Twitter](https://twitter.com/enreina_)
