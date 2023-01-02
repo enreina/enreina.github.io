@@ -3,7 +3,7 @@
 Personal blog. Published using Ghost CMS and the [ghost-static-site-generator](https://github.com/Fried-Chicken/ghost-static-site-generator).
 
 To publish:
-1. If not already, install [ghost](https://ghost.org/docs/install/local/) and [gssg](https://github.com/Fried-Chicken/ghost-static-site-generator))
+1. If not already, install [ghost](https://ghost.org/docs/install/local/) and [gssg](https://github.com/Fried-Chicken/ghost-static-site-generator)
 2. Run ghost locally
 ```
 ghost start
